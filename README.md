@@ -10,3 +10,10 @@
 2. once highlighted command control g
 3. that will highlight all occurance of your highlighted line
 4. once you're happy with changes press esc
+
+### how to highlight specific lines
+
+### slack tip
+*** adding code block, wrap in 3 backticks***
+``` im some code ```
+
